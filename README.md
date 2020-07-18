@@ -1,6 +1,6 @@
-![Alt Text](https://emojis.slackmojis.com/emojis/images/1594413420/9669/timeturner.gif)
-> *Time is what we want most, but... what we use worst.*    
--William Penn
+![Alt Text](https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif)
+> *Don't waste time....*    
+
 
 
 
