@@ -2,11 +2,6 @@
 ![Alt Text](https://emojis.slackmojis.com/emojis/images/1497901371/2453/alert.gif)
 ## Don't waste time....   
 -->
-# 🅳🅴🆅🅴🅻🅾🅿🅴🆁 
-### - 🅷🅴🅻🅿 🅾🆃🅷🅴🆁🆂
-### - 🆂🆃🅾🅿 🅶🅾🆂🆂🅸🅿🆂
-### - 🆂🅿🆁🅴🅰🅳 🅿🅾🆂🅸🆃🅸🆅🅸🆃🆈
-
 <!--
 **sayantikabanik/sayantikabanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
