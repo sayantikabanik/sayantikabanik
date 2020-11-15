@@ -17,6 +17,7 @@
 - 💡 Carving Entrepreneurial Journey @Massachusetts Institute of Technology (MIT Bootcamps)
 
 > Community Bonding
+- ✌🏽 Diversity and Inclusion Work Group @Python Software Foundation
 - 💪🏽 Board Member @Django Software Foundation
 - ✌🏽 Co-Organiser @PyLadies Bangalore
 - 🙌🏽  User Group Organiser @Elastic Bangalore 
