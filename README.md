@@ -22,4 +22,4 @@
 - 💪🏽 X-Board Member @Django Software Foundation
 - ✌🏽  Co-Organiser @PyLadies Bangalore
 - 🙌🏽 User Group Organiser @Elastic Bangalore 
-- ✌ 🏽Reviewer @[Tapia 2021 Scholarship](https://tapiaconference.cmd-it.org/)
+- ✌🏽Reviewer @[Tapia 2021 Scholarship](https://tapiaconference.cmd-it.org/)
