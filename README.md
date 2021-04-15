@@ -18,9 +18,10 @@
 - 💡 Carving Entrepreneurial Journey @Massachusetts Institute of Technology (MIT Bootcamps)
 
 > Community Bonding
-- ✌🏽  Diversity and Inclusion Work Group @Python Software Foundation
+- 🌟 India inclusion council member @Twilio India
+- ✌🏽 Diversity and Inclusion Work Group @Python Software Foundation
 - ✨ NomCom Member @Linux Professional Institute
 - 💪🏽 X-Board Member @Django Software Foundation
-- ✌🏽  Co-Organiser @PyLadies Bangalore
+- ✌🏽 Co-Organiser @PyLadies Bangalore
 - 🙌🏽 User Group Organiser @Elastic Bangalore 
 - ✌🏽Reviewer @[Tapia 2020 Scholarship](https://tapiaconference.cmd-it.org/)
