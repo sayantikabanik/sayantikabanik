@@ -6,7 +6,7 @@
 **sayantikabanik/sayantikabanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 > What em I upto?
-- 🛠 Data Engineer @[Twilio](https://twilio.com)
+- 🛠 Data Engineer
 - 💰 Building www.eaze4u.com where banking meets eaze!
 - 🌱 I’m currently learning: Psychology and a lot about Data 
 - 👯 I’m looking to collaborate on: Research and fun projects
