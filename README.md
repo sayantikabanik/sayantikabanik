@@ -19,7 +19,7 @@
 - 💡 Carving Entrepreneurial Journey @Massachusetts Institute of Technology (MIT Bootcamps)
 
 > Community Bonding
-- 🌟 India inclusion council member @Twilio India
+- 🌟 Past India inclusion council member @Twilio India
 - ✌🏽 Diversity and Inclusion Work Group @Python Software Foundation
 - ✨ NomCom Member @Linux Professional Institute
 - 💪🏽 X-Board Member @Django Software Foundation
