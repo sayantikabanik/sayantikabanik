@@ -5,7 +5,7 @@
 <!--
 **sayantikabanik/sayantikabanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### What em I upto?
+### About me
 - 🛠 Working with Data and Open source 🙋🏻‍♀️ 
 - 💰 Building www.eaze4u.com where banking meets eaze!
 - 🌱 I’m currently learning: Psychology and a lot about Data 
