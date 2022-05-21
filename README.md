@@ -6,9 +6,7 @@
 🌱 I’m currently learning: Cyberanalytics \
 👯 I’m looking to collaborate on: Research and fun projects\
 💬 Ask me about: Code & Community\
-📫 How to reach me: [sayantikabanik.com](https://www.sayantikabanik.com)\
-💭 Working with data on [kaggle.com/sayantikabanik](https://www.kaggle.com/sayantikabanik)
-
+📫 How to reach me: [sayantikabanik.com](https://www.sayantikabanik.com)
 
 ### ❤️Community 
 
