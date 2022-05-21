@@ -3,7 +3,7 @@
 
 🛠 Working with Data and Open source \
 💰 Building [eaze4u.com](https://www.eaze4u.com) where banking meets eaze!\
-🌱 I’m currently learning: Psychology and a lot about Data \
+🌱 I’m currently learning: Cyberanalytics \
 👯 I’m looking to collaborate on: Research and fun projects\
 💬 Ask me about: Code & Community\
 📫 How to reach me: [sayantikabanik.com](https://www.sayantikabanik.com)\
