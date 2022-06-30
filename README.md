@@ -1,5 +1,5 @@
 ### Hello 👋🏽👩🏽‍💻
-I am an open-source contributor and working on a variety of subjects, broadly `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application
+I am an open-source contributor and working on a passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application
 
 ### Some of my recent work
 - Contributing to `SciPy` and `NumPy`
