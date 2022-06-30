@@ -1,7 +1,7 @@
 ### Hello 👋🏽👩🏽‍💻
 I am an open-source contributor and working on a passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
 
-More about my work- [sayantikabanik.com](https://www.sayantikabanik.com)
+🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
 
 
 ### Some of my recent work
