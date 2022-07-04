@@ -1,4 +1,5 @@
-### Hello 👋🏽👩🏽‍💻
+👋🏽👩🏽‍💻
+
 I am an open-source contributor and working on a passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
 
 🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
