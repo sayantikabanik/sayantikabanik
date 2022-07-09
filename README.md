@@ -1,16 +1,16 @@
 ## 👋🏽👩🏽‍💻
 
-Open-source contributor and working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
+Love art, science and taking notes. Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
 
-🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
+More about my work 🔍 🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
 
 
 ### Some of my recent work
 - Contributing to `SciPy` and `NumPy`
 - Designing and developing end-to-end data science workflows.
 - Working closely with communities in STEM and D&I 
-- Delivering sessions globally
-- Building [eaze4u.com](https://www.eaze4u.com) where banking meets eaze!
+- Researching and developing a POC on detecting burnout in software world (soon to be out)
+- Teaching and mentoring whenever the time is in my favour 
 
 ### ❤️Community 
 
