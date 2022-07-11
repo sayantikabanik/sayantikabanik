@@ -5,7 +5,7 @@ Love art, science and taking notes. Open-source contributor, working on passion 
 More about my work 🔍 🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
 
 
-### 📌 Some of my recent work
+### 📌 What em I upto?
 - Contributing to `SciPy` and `NumPy`
 - Designing and developing end-to-end data science workflows.
 - Working closely with communities in STEM and D&I 
