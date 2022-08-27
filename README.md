@@ -6,7 +6,6 @@ More about my work 🔍 🌐 [sayantikabanik.com](https://www.sayantikabanik.com
 
 
 ### 📌 What em I upto?
-- Open source contributor
 - Designing and developing end-to-end data science workflows.
 - Working closely with communities in STEM and D&I 
 - Researching and developing a POC on detecting burnout in software world (soon to be out)
