@@ -16,7 +16,7 @@ More about my work 🔍 🌐 [sayantikabanik.com](https://www.sayantikabanik.com
 
 ### ❤️Community 
 
-🌟 NumFocus Project incubator founding committee member\
+🌟 Project incubator founding committee member @NumFocus\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation\
 🌟 Organiser @PyLadies Bangalore\
 ✨ Past Board Member @Django Software Foundation\
