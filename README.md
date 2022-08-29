@@ -10,6 +10,7 @@ More about my work 🔍 🌐 [sayantikabanik.com](https://www.sayantikabanik.com
 - Designing and developing end-to-end data science workflows, checkout [DataJourney](https://github.com/sayantikabanik/DataJourney)
 - Working closely with communities in STEM and D&I 
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
+  Collaborated with external sponsors and Indian school of business
 - Teaching, mentoring and proudly advocating for open-source
 - Delivering talks and tutorials at conferences globally, [My content repo](https://github.com/sayantikabanik/presentations_conferences)
 
