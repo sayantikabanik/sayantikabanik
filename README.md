@@ -4,9 +4,9 @@ I love abstract art, science and notes. Open-source contributor, working on pass
 
 More about my work 🔍 🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
 
-### Collaborate with me
+### 🤝 Collaborate with me
 
-For More details visit 🤝 [sayantikabanik.com/work-with-me](https://www.sayantikabanik.com/work-with-me)
+For More details visit [sayantikabanik.com/work-with-me](https://www.sayantikabanik.com/work-with-me)
 
 ### 📌 What em I upto?
 - Contributing to open source, most recent contributions to SciPy & NumPy
