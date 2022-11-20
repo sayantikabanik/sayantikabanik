@@ -20,6 +20,7 @@ For more details visit [sayantikabanik.com/work-with-me](https://www.sayantikaba
 ### ❤️Community contributions
 
 🌟 Technical advisor @catalyst-cooperative\
+🌟 CFP reviewer @Pyjamas Conf 2022
 🌟 Project incubator founding committee member @NumFocus\
 🌟 Work group member @RSE Asia\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation\
