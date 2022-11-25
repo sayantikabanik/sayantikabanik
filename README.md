@@ -2,7 +2,7 @@
 
 🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
 
-I love travel, abstract art, science and notes. Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
+Love unplanned travel, abstract art, science and notes. Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
 
 ### 🤝 Open for collaborations
 
