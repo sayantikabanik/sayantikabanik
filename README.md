@@ -22,9 +22,9 @@ For more details visit [sayantikabanik.com/work-with-me](https://www.sayantikaba
 ### ❤️Community contributions
 
 🌟 Project incubator founding committee member @NumFocus\
-🌟 Work group member @RSE Asia\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
 🌟 Organiser @PyLadies Bangalore\
+✨️ Past work group member @RSE Asia\
 ✨ Past Technical advisor @catalyst-cooperative\
 ✨ CFP reviewer @Pyjamas Conf 2022\
 ✨ Past Board Member @Django Software Foundation\
