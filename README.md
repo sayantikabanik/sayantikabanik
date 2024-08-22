@@ -1,12 +1,15 @@
 ## 👋🏽👩🏽‍💻
 
-🌐 [sayantikabanik.com](https://www.sayantikabanik.com)
+[![🌐 sayantikabanik.com](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
 
 Love unplanned travel, abstract art, science, simplicity and taking notes. Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
 
-### 🤝 Open for collaborations
+### 🤝 Open for Collaborations & Consultations
 
-For more details visit [sayantikabanik.com/work-with-me](https://www.sayantikabanik.com/work-with-me)
+[![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
+
+[![💼 Work with me](https://img.shields.io/badge/💼-Work_with_me-white)](https://www.sayantikabanik.com/work-with-me)
+
 
 ### 📌 Milestones and work-in-progress efforts
 - Contributing to open source, most recent contributions to SciPy & NumPy
