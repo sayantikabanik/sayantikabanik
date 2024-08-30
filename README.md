@@ -26,7 +26,7 @@ Love unplanned travel, abstract art, science, simplicity and taking notes. Open-
 
 🌟 Member Global R-Ladies team\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
-🌟 Organiser @PyLadies Bangalore\
+✨️ Past organiser @PyLadies Bangalore\
 ✨️ Past project incubator founding committee member @NumFocus\
 ✨️ Past work group member @RSE Asia\
 ✨ Past Technical advisor @catalyst-cooperative\
