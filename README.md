@@ -13,7 +13,7 @@ Love unplanned travel, abstract art, science, simplicity and taking notes. Open-
 
 ### 📌 Milestones and work-in-progress efforts
 - Contributing to open source, most recent contributions to SciPy & NumPy
-  - [Blogpost: The evolution of the SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
+  - Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
 - Designing and developing end-to-end data science workflows, checkout 👉[DataJourney](https://github.com/sayantikabanik/DataJourney)
 - Working closely with communities in STEM, D&I, open-science and open-research
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
