@@ -2,9 +2,11 @@
 
 [![🌐 sayantikabanik.com](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
 
-Love unplanned travel, abstract art, science, simplicity and taking notes. Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
+`Independent Data Consultant` 🧹🧑🏼‍💻 | `Nomad` 🧳 | `Dive Professional` 🤿  -> who loves abstract art, open science & simplicity
 
-### 🤝 Open for Collaborations & Consultations
+Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business related data science application.
+
+### 🤝 Collaborations & Consultations
 
 [![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
 
