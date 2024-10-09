@@ -19,7 +19,7 @@ Open-source contributor, working on passion projects in the area of `data engine
 - Designing and developing end-to-end data science workflows, checkout 👉[DataJourney](https://github.com/sayantikabanik/DataJourney)
 - Working closely with communities in STEM, D&I, open-science and open-research
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
-  Collaborated with external sponsors and Indian school of business.
+  Collaborated with external sponsors and Indian School of Business.
     - Winner of best capstone award 
     - Checkout [Repository & demo](https://github.com/sayantikabanik/capstone_isb)
 - Teaching, mentoring and proudly advocating for open-source
@@ -29,6 +29,7 @@ Open-source contributor, working on passion projects in the area of `data engine
 
 🌟 Member Global R-Ladies team\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
+🌟 Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
 ✨️ Past organiser @PyLadies Bangalore\
 ✨️ Past project incubator founding committee member @NumFocus\
 ✨️ Past work group member @RSE Asia\
