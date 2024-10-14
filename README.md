@@ -6,11 +6,11 @@
 
 Open-source contributor, working on passion projects in the area of `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business-related data science applications.
 
-### 🪼 What really matters 
+### 🪼 What matters
 
 🦋 Conditions I like to work in
-    - Psychologically safe &  organised env
-    - Around happy humans who have a life outside of work
+   - Psychologically safe &  organised env
+   - Around happy humans who have a life outside of work
 
 🐢 Time/Hours I like to work
    - Early mornings: deep work
