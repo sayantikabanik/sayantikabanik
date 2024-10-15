@@ -40,38 +40,38 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 
 ### 🪼 My work style and more
 
-🦋 Conditions I like to work in
+🦋 **Conditions I like to work in**
    - Psychologically safe &  organised env
    - Around happy humans who have a life outside of work
 
-🐢 Time/Hours I like to work
+🐢 **Time/Hours I like to work**
    - Early mornings: deep work
    - Mid-day:  meetings + planned task
    - Night: planning & decompress 
 
-🐬 Best ways to communicate with me
+🐬 **Best ways to communicate with me**
   - Emails 
   - 1:1
   - Direct message with tag (if requires my urgent attention)
 
-🐳 How I best receive feedback
+🐳 **How I best receive feedback**
   - Constructive 
   - Perfect when it's driven from "things which could be better" than "everything went wrong, it's you"
      - No to trauma dumping  
 
-🐌 How I learn best
+🐌 **How I learn best**
   - Give me a taste of the big picture 
   - Being hands-on
   - Organising & asking questions 
   - Big on research + planning, not great with hotfixes
 
-🦄 Things I struggle with
+🦄 **Things I struggle with**
   - Asking for help
   - Taking space for myself
   - Finding my beat, when overwhelmed 
   - Expressing my true emotions (often I mask)
 
-🦀 Other things to know about me
+🦀 Other things to know about me**
   - Zero tolerance for disrespect
   - Speak but don't mansplain me
   - Active listener
