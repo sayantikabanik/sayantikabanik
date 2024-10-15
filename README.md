@@ -10,6 +10,33 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 [![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
 [![Digital Boost: Book Consultation](https://img.shields.io/badge/Digital%20Boost-Book%20Consultation-white)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
 
+<details>
+  <summary>🪼 My work style and more</summary>
+
+🦋 **Conditions I like to work in**
+   - Psychologically safe &  organised env
+   - Around happy humans who have a life outside of work
+
+🐳 **How I best receive feedback**
+  - Constructive 
+  - Perfect when it's driven from "things which could be better" than "everything went wrong, it's you"
+     - No to trauma dumping  
+
+🐌 **How I learn best**
+  - Give me a taste of the big picture 
+  - Being hands-on
+  - Organising & asking questions 
+  - Big on research + planning, not great with hotfixes
+
+🦀 Other things to know about me**
+  - Zero tolerance for disrespect
+  - Speak but don't mansplain me
+  - Active listener
+  - Respect my time and I will yours 
+  - Over-communication is sweet
+  - Neurospicy
+</details>
+
 ### 📌 Milestones and work-in-progress efforts
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
@@ -37,44 +64,3 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 ✨ Past India inclusion council member @Twilio India\
 ✨ Past NomCom Member @Linux Professional Institute\
 ✨ Past Organiser GDG and WTM Bangalore
-
-### 🪼 My work style and more
-
-🦋 **Conditions I like to work in**
-   - Psychologically safe &  organised env
-   - Around happy humans who have a life outside of work
-
-🐢 **Time/Hours I like to work**
-   - Early mornings: deep work
-   - Mid-day:  meetings + planned task
-   - Night: planning & decompress 
-
-🐬 **Best ways to communicate with me**
-  - Emails 
-  - 1:1
-  - Direct message with tag (if requires my urgent attention)
-
-🐳 **How I best receive feedback**
-  - Constructive 
-  - Perfect when it's driven from "things which could be better" than "everything went wrong, it's you"
-     - No to trauma dumping  
-
-🐌 **How I learn best**
-  - Give me a taste of the big picture 
-  - Being hands-on
-  - Organising & asking questions 
-  - Big on research + planning, not great with hotfixes
-
-🦄 **Things I struggle with**
-  - Asking for help
-  - Taking space for myself
-  - Finding my beat, when overwhelmed 
-  - Expressing my true emotions (often I mask)
-
-🦀 Other things to know about me**
-  - Zero tolerance for disrespect
-  - Speak but don't mansplain me
-  - Active listener
-  - Respect my time and I will yours 
-  - Over-communication is sweet
-  - Neurospicy
