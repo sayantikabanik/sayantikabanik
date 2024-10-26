@@ -38,9 +38,9 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 </details>
 
 ### 📌 Milestones and work-in-progress efforts
+- Maintainer 👉[DataJourney](https://github.com/sayantikabanik/DataJourney), Open-Source Data Management framework 
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
-- Designing and developing end-to-end data science workflows, checkout 👉[DataJourney](https://github.com/sayantikabanik/DataJourney)
 - Working closely with communities in STEM, D&I, open-science and open-research
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
   Collaborated with external sponsors and Indian School of Business.
