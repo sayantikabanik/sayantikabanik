@@ -10,6 +10,11 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 [![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
 [![Digital Boost: Book Consultation](https://img.shields.io/badge/Digital%20Boost-Book%20Consultation-white)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
 
+### 📩 My Newsletter 
+[![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
+
+
+
 <details>
   <summary>🪼 My work style and more</summary>
 
