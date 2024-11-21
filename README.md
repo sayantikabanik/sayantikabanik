@@ -58,12 +58,13 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 🌟 Member Global R-Ladies team\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
 🌟 Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
+🌟 Mentor @pyladiesCon2024\
+✨ Past Technical advisor @catalyst-cooperative\
+✨ Past Board Member @Django Software Foundation\
 ✨️ Past organiser @PyLadies Bangalore\
 ✨️ Past project incubator founding committee member @NumFocus\
 ✨️ Past work group member @RSE Asia\
-✨ Past Technical advisor @catalyst-cooperative\
-✨ CFP reviewer @Pyjamas Conf 2022\
-✨ Past Board Member @Django Software Foundation\
+✨ Past CFP reviewer @Pyjamas Conf 2022\
 ✨ Past Reviewer @Tapia 2020/2021 Scholarship\
 ✨ Past India inclusion council member @Twilio India\
 ✨ Past NomCom Member @Linux Professional Institute\
