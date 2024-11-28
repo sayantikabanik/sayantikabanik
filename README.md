@@ -32,7 +32,7 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
   - Organising & asking questions 
   - Big on research + planning, not great with hotfixes
 
-🦀 Other things to know about me**
+🦀 **Other things to know about me**
   - Zero tolerance for disrespect
   - Speak but don't mansplain me
   - Active listener
@@ -42,7 +42,7 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 </details>
 
 ### 📌 Milestones and work-in-progress efforts
-- Maintainer 👉[DataJourney](https://github.com/sayantikabanik/DataJourney), Open-Source Data Management framework 
+- Maintainer 👉[DataJourney](https://github.com/sayantikabanik/DataJourney), Design first Open Source Data Management Toolkit
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
 - Working closely with communities in STEM, D&I, open-science and open-research
