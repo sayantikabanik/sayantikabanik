@@ -4,7 +4,7 @@
 [![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
 
 
-`Independent Data Consultant` 🧹🧑🏼‍💻 | `Nomad` 🧳 | `Dive Professional` 🤿  -> who loves abstract art, open science & simplicity
+`Independent Data Consultant` 🧹🧑🏼‍💻 | `Public Speaker` 📡📡 | `Divemaster` 🤿  -> who loves abstract art, open science & simplicity
 
 Open-source contributor, working on passion projects in `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business-related data science applications.
 
@@ -58,7 +58,9 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 🌟 Member Global R-Ladies team\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
 🌟 Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
-🌟 Mentor @pyladiesCon2024\
+🌟 Mentor @PyConUS 2025\
+🌟 Mentor @DigitalBoost\
+🌟 Mentor @PyLadiesCon2024\
 ✨ Past Technical advisor @catalyst-cooperative\
 ✨ Past Board Member @Django Software Foundation\
 ✨️ Past organiser @PyLadies Bangalore\
