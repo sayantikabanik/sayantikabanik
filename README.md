@@ -9,6 +9,8 @@
 Open-source contributor, working on passion projects in `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business-related data science applications.
 
 ### ☎️ Consultation & Mentorship
+[![Book Now](https://img.shields.io/badge/Book%20Consultation-Click%20Here-brightgreen)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2D0mRUyY-rp9hFLPTjTuJy606BhF2gpb_y3t3J-TkEmmcwTqsTH8Ha59pthciKE8-CrTH9o3U9)
+
 [![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
 [![Digital Boost: Book Consultation](https://img.shields.io/badge/Digital%20Boost-Book%20Consultation-white)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
 
