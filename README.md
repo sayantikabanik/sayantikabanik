@@ -14,6 +14,9 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 [![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
 [![Digital Boost: Book Consultation](https://img.shields.io/badge/Digital%20Boost-Book%20Consultation-white)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
 
+### 🎤 Speaking Engagements 
+
+[![Invite me to speak](https://img.shields.io/badge/Invite%20me%20to%20Speak-Innovation%20Women-blue)](https://speaker.innovationwomen.com/user/18144)
 
 
 <details>
