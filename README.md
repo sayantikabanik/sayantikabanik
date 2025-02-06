@@ -66,6 +66,7 @@ Open-source contributor, working on passion projects in `data engineering`, `tex
 🌟 Mentor @DigitalBoost\
 🌟 Mentor @PyLadiesCon2024\
 🌟 CFP Reviewer @EuroPython 2025\
+✨ Past Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
 ✨ Past Technical advisor @catalyst-cooperative\
 ✨ Past Board Member @Django Software Foundation\
 ✨️ Past organiser @PyLadies Bangalore\
