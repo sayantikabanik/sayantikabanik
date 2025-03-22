@@ -1,10 +1,8 @@
-## 👋🏽👩🏽‍💻
+## 👋🏽👩🏽‍💻 `Founder` | `Maintainer`  | `Public Speaker`  | `Divemaster` 
 
 [![🌐 sayantikabanik.com](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
 [![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
 
-
-`Founder` | `Maintainer`  | `Public Speaker`  | `Divemaster` 
 
 ### ☎️ Consultation & Mentorship
 [![Book Now](https://img.shields.io/badge/Book%20Consultation-Click%20Here-brightgreen)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2D0mRUyY-rp9hFLPTjTuJy606BhF2gpb_y3t3J-TkEmmcwTqsTH8Ha59pthciKE8-CrTH9o3U9)
