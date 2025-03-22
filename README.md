@@ -4,7 +4,7 @@
 [![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
 
 
-`Maintainer`  | `Public Speaker`  | `Divemaster` 
+`Founder` | `Maintainer`  | `Public Speaker`  | `Divemaster` 
 
 Open-source contributor, working on passion projects in `data engineering`, `text analysis`, `developer experience` and a ton of `exploratory work` with business-related data science applications.
 
