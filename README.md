@@ -4,14 +4,9 @@
 [![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
 
 
-### ☎️ Consultation & Mentorship
+### ☎️ Consultation & Speaking Engagements
 [![Book Now](https://img.shields.io/badge/Book%20Consultation-Click%20Here-brightgreen)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2D0mRUyY-rp9hFLPTjTuJy606BhF2gpb_y3t3J-TkEmmcwTqsTH8Ha59pthciKE8-CrTH9o3U9)
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/workwithsayantika/book-session.svg)](https://www.codementor.io/@workwithsayantika?refer=badge)
 [![Digital Boost: Book Consultation](https://img.shields.io/badge/Digital%20Boost-Book%20Consultation-white)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
-
-### 🎤 Speaking Engagements 
-
 [![Invite me to speak](https://img.shields.io/badge/Invite%20me%20to%20Speak-Innovation%20Women-blue)](https://speaker.innovationwomen.com/user/18144)
 
 
