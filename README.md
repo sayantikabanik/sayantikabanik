@@ -1,4 +1,4 @@
-### 👋🏽👩🏽‍💻 `Founder` | `Maintainer`  | `Public Speaker`  | `Divemaster` 
+### `Founder` | `Maintainer`  | `Public Speaker`  | `Divemaster` 
 
 [![🌐 sayantikabanik.com](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
 [![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
