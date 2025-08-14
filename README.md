@@ -38,17 +38,17 @@
 </details>
 
 ### 📌 Milestones and work-in-progress efforts
+
 - Founder [DataJourneyHQ](https://datajourneyhq.com)
 - Maintainer 👉[DataJourney](https://github.com/sayantikabanik/DataJourney), Design first Open Source Data Management Toolkit
   - 🎊 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - 📖 Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
-- Working closely with communities in STEM, D&I, open-science and open-research
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
   Collaborated with external sponsors and Indian School of Business.
     - 🎉 Winner of the best capstone award 
     - 👩🏽‍💻 Checkout [Repository & demo](https://github.com/sayantikabanik/capstone_isb)
-- Teaching, mentoring and proudly advocating for open-source
+- Teaching, mentoring, and proudly advocating for open-source & open-research
 - Delivering talks and tutorials at conferences globally, 👉[My content repo](https://github.com/sayantikabanik/presentations_conferences)
 
 ### ❤️Community contributions
