@@ -56,8 +56,8 @@
 🌟 Contributor Global R-Ladies team\
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
-🌟 Mentor @PyConUS 2025\
 🌟 Mentor @DigitalBoost\
+✨ Past Mentor @PyConUS 2025\
 ✨ Past Mentor @PyLadiesCon2024\
 ✨ Past CFP Reviewer @EuroPython 2025\
 ✨ Past Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
