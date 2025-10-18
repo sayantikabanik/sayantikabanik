@@ -53,14 +53,15 @@
 
 ### ❤️Community contributions
 
-🌟 Member Global R-Ladies team\
+🌟 Contributor Global R-Ladies team\
+🌟 Reviewer @Journal of Open Source Software (JOSS)\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
 🌟 Mentor @PyConUS 2025\
 🌟 Mentor @DigitalBoost\
-🌟 Mentor @PyLadiesCon2024\
-🌟 CFP Reviewer @EuroPython 2025\
+✨ Past Mentor @PyLadiesCon2024\
+✨ Past CFP Reviewer @EuroPython 2025\
 ✨ Past Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
-✨ Past Technical advisor @catalyst-cooperative\
+✨ Past Technical Advisor @catalyst-cooperative\
 ✨ Past Board Member @Django Software Foundation\
 ✨️ Past organiser @PyLadies Bangalore\
 ✨️ Past project incubator founding committee member @NumFocus\
