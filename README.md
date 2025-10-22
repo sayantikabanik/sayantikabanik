@@ -15,33 +15,6 @@
 
 ---
 
-<details>
-  <summary>🪼 My work style and more</summary>
-
-🦋 **Conditions I like to work in**
-   - Psychologically safe &  organised env
-   - Around happy humans who have a life outside of work
-
-🐳 **How I best receive feedback**
-  - Constructive 
-  - Perfect when it's driven from "things which could be better" than "everything went wrong, it's you"
-     - No to trauma dumping  
-
-🐌 **How I learn best**
-  - Give me a taste of the big picture 
-  - Being hands-on
-  - Organising & asking questions 
-  - Big on research + planning, not great with hotfixes
-
-🦀 **Other things to know about me**
-  - Zero tolerance for disrespect
-  - Speak but don't mansplain me
-  - Active listener
-  - Respect my time and I will yours 
-  - Over-communication is sweet
-  - Neurospicy
-</details>
-
 ### 📌 Milestones and work-in-progress efforts
 
 - Founder [DataJourneyHQ](https://datajourneyhq.com)
