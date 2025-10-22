@@ -44,6 +44,7 @@
   - 🎊 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - 📖 Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
+  - The early efforts led to the creation of [Spin](https://pypi.org/project/spin/)
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
   Collaborated with external sponsors and Indian School of Business.
     - 🎉 Winner of the best capstone award 
