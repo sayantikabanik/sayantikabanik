@@ -1,14 +1,20 @@
-### `Founder` | `Maintainer`  | `Public Speaker`  | `Divemaster` 
+<div align="center">
+  
+## Founder · Maintainer · Public Speaker · DiveMaster
 
-[![🌐 sayantikabanik.com](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
-[![Subscribe to my Substack](https://img.shields.io/badge/Subscribe-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
+<img src="./saya_roles.png" alt="Saya taking on multiple hats" style="width: 75%; max-width: 750px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);">
 
+### 🌐 Connect & Collaborate
 
-### ☎️ Consultation & Speaking Engagements
-[![Book Now](https://img.shields.io/badge/Book%20Consultation-Click%20Here-brightgreen)](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ2D0mRUyY-rp9hFLPTjTuJy606BhF2gpb_y3t3J-TkEmmcwTqsTH8Ha59pthciKE8-CrTH9o3U9)
-[![Digital Boost: Book Consultation](https://img.shields.io/badge/Digital%20Boost-Book%20Consultation-white)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
-[![Invite me to speak](https://img.shields.io/badge/Invite%20me%20to%20Speak-Innovation%20Women-blue)](https://speaker.innovationwomen.com/user/18144)
+[![Website](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
+[![Substack](https://img.shields.io/badge/Newsletter-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
+[![Quick connect](https://img.shields.io/badge/Quick%20Connect-My%20Cal-white?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/sayantikabanik/connect-saya)
+[![Digital Boost](https://img.shields.io/badge/Digital%20Boost-Mentor-white?style=for-the-badge&logo=heart&logoColor=red)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
+[![Speaking](https://img.shields.io/badge/Speaking-Innovation%20Women-blue?style=for-the-badge&logo=microphone&logoColor=white)](https://speaker.innovationwomen.com/user/18144)
 
+</div>
+
+---
 
 <details>
   <summary>🪼 My work style and more</summary>
