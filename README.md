@@ -2,7 +2,7 @@
   
 ## Founder · Maintainer · Public Speaker · DiveMaster
 
-<img src="./saya_roles.png" alt="Saya taking on multiple hats" style="width: 75%; max-width: 750px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);">
+<!-- <img src="./saya_roles.png" alt="Saya taking on multiple hats" style="width: 75%; max-width: 750px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);"> -->
 
 
 [![Website](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
