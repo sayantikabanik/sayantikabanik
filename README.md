@@ -34,6 +34,7 @@
 
 🌟 Contributor Global R-Ladies team\
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
+🌟 Reviewer @Computational Abilities Knowledge Exchange (CAKE)\
 🌟 Diversity and Inclusion Work Group @Python Software Foundation (PSF)\
 🌟 Mentor @DigitalBoost\
 ✨ Past Mentor @PyConUS 2025\
