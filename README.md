@@ -17,9 +17,8 @@
 
 ### 📌 Milestones and work-in-progress efforts
 
-- Founder [DataJourneyHQ](https://datajourneyhq.com)
-- Maintainer 👉[DataJourney](https://github.com/sayantikabanik/DataJourney), Design first Open Source Data Management Toolkit
-  - 🎊 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
+- Founder & Maintainer @[DataJourneyHQ](https://github.com/DataJourneyHQ/DataJourney) 💚
+  - 🎊 DataJourney -> Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - 📖 Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
   - The early efforts fueled the creation of [Spin](https://pypi.org/project/spin/) by Stéfan van der Walt
