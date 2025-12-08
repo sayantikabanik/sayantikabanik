@@ -17,7 +17,7 @@
 
 ### 📌 Milestones and work-in-progress efforts
 
-- Founder & Maintainer @[DataJourneyHQ](https://github.com/DataJourneyHQ/DataJourney) 💚
+- Founder & Maintainer @[DataJourneyHQ](https://github.com/DataJourneyHQ/) 💚
   - 🎊 DataJourney -> Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
 - Contributing to open source, most recent contributions to SciPy & NumPy
   - 📖 Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/2022/05/the-evolution-of-the-scipy-developer-cli)
