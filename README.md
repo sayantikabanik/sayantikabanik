@@ -37,7 +37,8 @@
 🌟 Contributor Global R-Ladies team\
 🌟 Mentor @DigitalBoost\
 ✨ Past Mentor @PyConUS 2025\
-✨ Past Mentor @PyLadiesCon2024\
+✨ Past Maintainer @PyLadiesCon 2025 Open Sprints\
+✨ Past Mentor @PyLadiesCon 2024\
 ✨ Past CFP Reviewer @EuroPython 2025\
 ✨ Past Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
 ✨ Past Technical Advisor @catalyst-cooperative\
