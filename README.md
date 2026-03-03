@@ -16,7 +16,7 @@
 
 ### 📌 Milestones and work-in-progress efforts
 
-- Founder & Maintainer [DataJourneyHQ](https://github.com/DataJourneyHQ/) 💚 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
+- Founder & Maintainer [DataJourneyHQ](https://DataJourneyHQ.com) 💚 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
   - Instructor [DataJourney_Academy](https://academy.datajourneyhq.com)
   - Creator and maintainer of [Lean Launch Mate](https://llmate.datajourneyhq.com), AI-enabled technical toolkit builder
 - Contributed to scientific computing packages SciPy, NumPy, conbench, etc
