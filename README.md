@@ -16,10 +16,9 @@
 
 ### 📌 Milestones and work-in-progress efforts
 
-- Founder & Maintainer @[DataJourneyHQ](https://github.com/DataJourneyHQ/) 💚
-  - Instructor [@DataJourney_Academy](academy.datajourneyhq.com)
+- Founder & Maintainer [DataJourneyHQ](https://github.com/DataJourneyHQ/) 💚 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
+  - Instructor [DataJourney_Academy](academy.datajourneyhq.com)
   - Creator and maintainer of [Lean Launch Mate](llmate.datajourneyhq.com), AI-enabled technical toolkit builder
-  - 🎊 DataJourney -> Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
 - Contributed to scientific computing packages SciPy, NumPy, conbench, etc
   - 📖 Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/the-evolution-of-the-scipy-developer-cli)
   - The early efforts fueled the creation of [Spin](https://pypi.org/project/spin/) by Stéfan van der Walt
