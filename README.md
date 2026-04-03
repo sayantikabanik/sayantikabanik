@@ -19,7 +19,7 @@
 - Founder & Maintainer [DataJourneyHQ](https://DataJourneyHQ.com) 💚 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
   - Instructor & Enabler [DataJourneyHQ Academy](https://academy.datajourneyhq.com)
   - Creator and maintainer of [Lean Launch Mate](https://llmate.datajourneyhq.com), AI-enabled technical toolkit builder
-- Contributed to scientific computing packages SciPy, NumPy, conbench, etc
+- Contributed to scientific computing packages `SciPy`, `NumPy`, `conbench`, etc
   - 📖 Blogpost: [My contribution to SciPy developer CLI](https://labs.quansight.org/blog/the-evolution-of-the-scipy-developer-cli)
   - The early efforts fueled the creation of [Spin](https://pypi.org/project/spin/) by Stéfan van der Walt
 - Developed a POC for detecting different facets of `occupational burnout` along with functional recommendations and feedback.
