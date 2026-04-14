@@ -36,7 +36,7 @@
 🌟 Reviewer @Computational Abilities Knowledge Exchange (CAKE)\
 🌟 Contributor Global R-Ladies team\
 🌟 Mentor @DigitalBoost\
-✨ Past Diversity and Inclusion Work Group @Python Software Foundation [2020-2026]\
+✨ Past Contributor Diversity and Inclusion Work Group @Python Software Foundation [2020-2026]\
 ✨ Past Mentor @PyConUS 2025\
 ✨ Past Maintainer @PyLadiesCon 2025 Open Sprints\
 ✨ Past Mentor @PyLadiesCon 2024\
