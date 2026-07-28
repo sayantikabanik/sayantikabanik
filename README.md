@@ -1,6 +1,6 @@
 <div align="center">
   
-## Founder · Maintainer · Public Speaker · Open Source Advocate
+## Founder · Maintainer · Public Speaker · PSF Fellow 
 
 <!-- <img src="./saya_roles.png" alt="Saya taking on multiple hats" style="width: 75%; max-width: 750px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);"> -->
 
