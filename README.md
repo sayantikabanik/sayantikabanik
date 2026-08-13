@@ -7,8 +7,7 @@
 
 [![Website](https://img.shields.io/badge/Website-sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://www.sayantikabanik.com)
 [![Substack](https://img.shields.io/badge/Newsletter-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
-[![Quick connect](https://img.shields.io/badge/Quick%20Connect-My%20Cal-white?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/sayantikabanik/connect-saya)
-[![Digital Boost](https://img.shields.io/badge/Digital%20Boost-Mentor-white?style=for-the-badge&logo=heart&logoColor=red)](https://organisation.digitalboost.org.uk/volunteer-details?volunteer[]=314&id=null)
+[![Quick connect](https://img.shields.io/badge/Quick%20Connect-My%20Cal-white?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/sayantikabanik/30-min-chat)
 
 </div>
 
