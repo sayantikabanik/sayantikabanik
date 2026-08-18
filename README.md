@@ -27,7 +27,7 @@
 - Teaching, mentoring, and proudly advocating for open-source & open-research
 - Delivering talks and tutorials at conferences globally, 👉[My content repo](https://github.com/sayantikabanik/presentations_conferences)
 
-### ❤️Community contributions
+### Community contributions
 
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
 🌟 CFP Reviewer @EuroPython 2026\
