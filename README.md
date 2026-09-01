@@ -15,7 +15,9 @@
 
 ### 📌 Milestones and work-in-progress efforts
 
-- Founder & Maintainer [DataJourneyHQ](https://DataJourneyHQ.com) 💚 Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
+- Founder & Maintainer [💚 DataJourneyHQ](https://DataJourneyHQ.com)
+    - Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
+    - Learnings & What's next: [Post 12 months with GitHub's Secure Open Source Fund](https://datajourneyhq.com/blog/security-should-not-wait-for-scale/) 
 - Instructor & Enabler [DataJourneyHQ Academy](https://academy.datajourneyhq.com)
 - Building [No fixed Story](https://nofixedstory.com/)
 - Contributed to scientific computing packages `SciPy`, `NumPy`, `conbench`, etc
