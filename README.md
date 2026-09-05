@@ -32,6 +32,7 @@
 
 ### 🚀 Community contributions
 
+🌟 Open Source community Lead at @StripeBuilder\
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
 🌟 CFP Reviewer @EuroPython 2026\
 🌟 Reviewer @Computational Abilities Knowledge Exchange (CAKE)\
