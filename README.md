@@ -17,7 +17,8 @@
 
 - Founder & Maintainer [💚 DataJourneyHQ](https://DataJourneyHQ.com)
     - Recipient: [GitHub Secure Open Source fund](https://github.blog/open-source/maintainers/securing-the-supply-chain-at-scale-starting-with-71-important-open-source-projects/)
-    - Learnings & What's next: [Post 12 months with GitHub's Secure Open Source Fund](https://datajourneyhq.com/blog/security-should-not-wait-for-scale/) 
+    - Learnings & What's next: [Post 12 months with GitHub's Secure Open Source Fund](https://datajourneyhq.com/blog/security-should-not-wait-for-scale/)
+- Global tech speaker and advocate, 👉[Highlights](https://github.com/sayantikabanik/presentations_conferences)
 - Instructor & Enabler [DataJourneyHQ Academy](https://academy.datajourneyhq.com)
 - Building [No fixed Story](https://nofixedstory.com/)
 - Contributed to scientific computing packages `SciPy`, `NumPy`, `conbench`, etc
@@ -27,8 +28,6 @@
   Collaborated with external sponsors and Indian School of Business.
     - 🎉 Winner of the best capstone award 
     - 👩🏽‍💻 Checkout [Repository & demo](https://github.com/sayantikabanik/capstone_isb)
-- Teaching, mentoring, and proudly advocating for open-source & open-research
-- Delivering talks and tutorials at conferences globally, 👉[My content repo](https://github.com/sayantikabanik/presentations_conferences)
 
 ### 🚀 Community contributions
 
