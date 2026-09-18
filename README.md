@@ -31,7 +31,7 @@
 
 ### 🚀 Community contributions
 
-🎤 Global Tech speaker & workshop host [highlights](https://github.com/sayantikabanik/presentations_conferences)\
+🎤 Global Tech speaker & workshop host -> [highlights](https://github.com/sayantikabanik/presentations_conferences)\
 🌟 Fellow @Python Software Foundation\
 🌟 Open Source community Lead at @StripeBuilder\
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
