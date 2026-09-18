@@ -31,6 +31,7 @@
 
 ### 🚀 Community contributions
 
+🌟 Fellow @Python Software Foundation\
 🌟 Open Source community Lead at @StripeBuilder\
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
 🌟 CFP Reviewer @EuroPython 2026\
