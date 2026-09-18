@@ -34,10 +34,10 @@
 🌟 Fellow @Python Software Foundation\
 🌟 Open Source community Lead at @StripeBuilder\
 🌟 Reviewer @Journal of Open Source Software (JOSS)\
-🌟 CFP Reviewer @EuroPython 2026\
 🌟 Reviewer @Computational Abilities Knowledge Exchange (CAKE)\
-🌟 Contributor Global R-Ladies team\
+🌟 Contributor @Global R-Ladies\
 🌟 Mentor @DigitalBoost\
+✨ Past CFP Reviewer @EuroPython 2026\
 ✨ Past Contributor Diversity and Inclusion Work Group @Python Software Foundation [2020-2026]\
 ✨ Past Mentor @PyConUS 2025\
 ✨ Past Maintainer @PyLadiesCon 2025 Open Sprints\
