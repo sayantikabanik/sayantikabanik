@@ -37,20 +37,20 @@
 🌟 Reviewer @Computational Abilities Knowledge Exchange (CAKE)\
 🌟 Contributor @Global R-Ladies\
 🌟 Mentor @DigitalBoost\
-✨ Past CFP Reviewer @EuroPython 2026\
-✨ Past Contributor Diversity and Inclusion Work Group @Python Software Foundation [2020-2026]\
-✨ Past Mentor @PyConUS 2025\
-✨ Past Maintainer @PyLadiesCon 2025 Open Sprints\
-✨ Past Mentor @PyLadiesCon 2024\
-✨ Past CFP Reviewer @EuroPython 2025\
-✨ Past Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
-✨ Past Technical Advisor @catalyst-cooperative\
-✨ Past Board Member @Django Software Foundation\
-✨️ Past organiser @PyLadies Bangalore\
-✨️ Past project incubator founding committee member @NumFocus\
-✨️ Past work group member @RSE Asia\
-✨ Past CFP reviewer @Pyjamas Conf 2022\
-✨ Past Reviewer @Tapia 2020/2021 Scholarship\
-✨ Past India inclusion council member @Twilio India\
-✨ Past NomCom Member @Linux Professional Institute\
-✨ Past Organiser GDG and WTM Bangalore
+✨ Former CFP Reviewer @EuroPython 2026\
+✨ Former Contributor Diversity and Inclusion Work Group @Python Software Foundation [2020-2026]\
+✨ Former Mentor @PyConUS 2025\
+✨ Former Maintainer @PyLadiesCon 2025 Open Sprints\
+✨ Former Mentor @PyLadiesCon 2024\
+✨ Former CFP Reviewer @EuroPython 2025\
+✨ Former Engagement Team: Early Career Committee (ECC) @Data Visualization Society (DVS)\
+✨ Former Technical Advisor @catalyst-cooperative\
+✨ Former Board Member @Django Software Foundation\
+✨️ Former organiser @PyLadies Bangalore\
+✨️ Former project incubator founding committee member @NumFocus\
+✨️ Former work group member @RSE Asia\
+✨ Former CFP reviewer @Pyjamas Conf 2022\
+✨ Former Reviewer @Tapia 2020/2021 Scholarship\
+✨ Former India Inclusion Council member @Twilio India\
+✨ Former NomCom Member @Linux Professional Institute\
+✨ Former Organiser, GDG and WTM Bangalore
