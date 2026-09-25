@@ -6,8 +6,8 @@
 
 
 [![DataJourneyHQ](https://img.shields.io/badge/DataJourneyHQ.com-9cf?style=for-the-badge&logo=internet-explorer)](https://datajourneyhq.com/)
-[![Substack](https://img.shields.io/badge/Newsletter-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
-[![Quick connect](https://img.shields.io/badge/Quick%20Connect-My%20Cal-white?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/sayantikabanik/30-min-chat)
+<!--[![Substack](https://img.shields.io/badge/Newsletter-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)-->
+[![Let's Connect](https://img.shields.io/badge/Quick%20Connect%20-Cal-white?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/sayantikabanik/30-min-chat)
 
 </div>
 
