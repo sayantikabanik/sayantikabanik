@@ -5,8 +5,8 @@
 <!-- <img src="./saya_roles.png" alt="Saya taking on multiple hats" style="width: 75%; max-width: 750px; border-radius: 16px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);"> -->
 
 
-[![DataJourneyHQ](https://img.shields.io/badge/DataJourneyHQ.com-9cf?style=for-the-badge&logo=internet-explorer)](https://datajourneyhq.com/)
-<!--[![Substack](https://img.shields.io/badge/Newsletter-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)-->
+[![Systems that Travels](https://img.shields.io/badge/sayantikabanik.com-9cf?style=for-the-badge&logo=internet-explorer)](https://sayantikabanik.com/)
+[![Substack](https://img.shields.io/badge/Newsletter-Substack-ff6700?style=for-the-badge&logo=substack&logoColor=white)](https://sayantikabanik.substack.com/)
 [![Let's Connect](https://img.shields.io/badge/Quick%20Connect%20-Cal-white?style=for-the-badge&logo=calendar&logoColor=white)](https://cal.com/sayantikabanik/30-min-chat)
 
 </div>
